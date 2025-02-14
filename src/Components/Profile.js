@@ -24,7 +24,7 @@ function Profile() {
         </div>
         <div>
           <h1 className="profileName">Jennifer Moore</h1>
-          <h2 className="NMLS">Loan Officer (NMLS #2104281)</h2>
+          <h2 className="NMLS">Loan Originator (NMLS #2104281)</h2>
           <p className="profileP">
             I&apos;m Jennifer, a leading loan originator specializing in all
             things home finance. My top priority is ensuring that my clients
