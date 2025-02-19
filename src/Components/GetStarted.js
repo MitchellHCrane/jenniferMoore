@@ -16,7 +16,7 @@ function GetStarted() {
           title="Loan Application"
           description="Create your account to apply with
           First Class Home Mortgage."
-          url="https://firstclasshomemortgage.my1003app.com/2104281/register"
+          url="https://teammoore.my1003app.com/2104281/register?time=1739562263547"
           iconName="applicationIcon"
           btnText="Start Application"
         />
@@ -34,14 +34,13 @@ function GetStarted() {
           iconName="loanEducationIcon"
           btnText="Start Learning"
         />
-        {/* Does not have a guardian link yet  */}
-        {/* <GetStartedItem
+        <GetStartedItem
           title="Upload Documents"
           description="Safely and securely send documents through DocumentGuardian."
-          url=""
+          url="https://documentguardian.com/filedrop/Jennifer@firstclasshomemortgage.com"
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
-        /> */}
+        />
         {/* <GetStartedItem
           title="Schedule Strategy Appointment"
           description="Click to schedule a strategy appointment."
