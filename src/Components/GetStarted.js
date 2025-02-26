@@ -41,13 +41,13 @@ function GetStarted() {
           iconName="uploadDocumentIcon"
           btnText="Upload Documents"
         />
-        {/* <GetStartedItem
+        <GetStartedItem
           title="Schedule Strategy Appointment"
           description="Click to schedule a strategy appointment."
-          url=""
+          url="https://calendly.com/jennifer-firstclasshomemortgage/30-minute-discovery-call"
           iconName="strategyBoard"
           btnText="Schedule"
-        /> */}
+        />
         <GetStartedItem
           title="Leave a Review"
           description="Thank you for choosing First Class Home Mortgage. It's my priority to continue providing quality service to my customers. Tell me about your experience."

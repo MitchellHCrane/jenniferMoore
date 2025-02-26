@@ -1,5 +1,6 @@
 import "../css/footer.css";
 import "../css/App.css";
+import { BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
 
 function Footer() {
   return (
@@ -17,6 +18,26 @@ function Footer() {
               jennifer@firstclasshomemortgage.com
             </a>
           </p>
+          <div className="socialContainer">
+            <a
+              href="https://www.instagram.com/moore_than_mortgages_jen_moore/"
+              className="footerP"
+            >
+              <BsInstagram />
+            </a>
+            <a
+              href="https://www.facebook.com/MortgageswithJenniferMoore"
+              className="footerP"
+            >
+              <BsFacebook />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/jennifer-moore-48646b353/"
+              className="footerP"
+            >
+              <BsLinkedin />
+            </a>
+          </div>
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">License Info</h3>
